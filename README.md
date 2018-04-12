@@ -1,5 +1,5 @@
 
-Advanced CSS tecjhniques written in Sas - check out the nifty design of this site built in Jonas's CSS course.
+Advanced CSS techniques written in Sass - check out the nifty design of this site built in Jonas's CSS course.
 
 https://anfusion.github.io/natours.html
 
